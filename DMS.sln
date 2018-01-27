@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS", "DMS\DMS.csproj", "{7F9F63D0-9D9D-4C54-9EDE-3FEE2A41A5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.DAL", "DMS.DAL\DMS.DAL.csproj", "{DA65B119-1ACE-4481-8415-88F89CDF31CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9F63D0-9D9D-4C54-9EDE-3FEE2A41A5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9F63D0-9D9D-4C54-9EDE-3FEE2A41A5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9F63D0-9D9D-4C54-9EDE-3FEE2A41A5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9F63D0-9D9D-4C54-9EDE-3FEE2A41A5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA65B119-1ACE-4481-8415-88F89CDF31CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA65B119-1ACE-4481-8415-88F89CDF31CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA65B119-1ACE-4481-8415-88F89CDF31CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA65B119-1ACE-4481-8415-88F89CDF31CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
